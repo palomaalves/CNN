@@ -9,6 +9,8 @@ O projeto foi realizado nas seguintes etapas:
 1. Tratamento das imagens e pré-processamento de dados;
 2. Treinamento com um conjunto de dados de treino e validação;
 3. Avaliação do modelo com um conjunto de dados de teste independente.
+
+
 Os objetivos deste projeto foram:
 Desenvolver um modelo de CNN capaz de classificar o câncer de pulmão nas imagens radiográficas;
 Avaliar a eficácia do modelo em um conjunto de dados de teste independente.
